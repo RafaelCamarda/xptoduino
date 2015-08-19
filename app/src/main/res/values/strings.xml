@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">XptoDuino</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Configurar">Settings</string>
+    <string name="sua_fala">Seu comando:</string>
+    <string name="clique_falar">Clique para falar</string>
+    <string name="xpto_hint">"Xpto pronto, diga XPTO + seu comando: "</string>
+    <string name="nao_possui_reconhecimento">Seu dispositivo não possui reconhecimento de voz!</string>
+    <string name="digite_comando">Digite o comando que deseja falar:</string>
+    <string name="none_paired">Nenhum dispositivo pareado!</string>
+    <string name="nao_suportado">Dispositivo não suporta Bluetooth</string>
+    <string name="conectando_blue">Conectando...</string>
+    <string-array name="comandos" >
+        <item>Ligar todas leds</item>
+        <item>Desligar todas leds</item>
+        <item>Ligar Led porta 13</item>
+        <item>Desligar Led porta 13</item>
+        <item>Ligar Led porta 12</item>
+        <item>Desligar Led porta 12</item>
+        <item>Ligar Led porta 11</item>
+        <item>Desligar Led porta 11</item>
+        <item>Ligar relay porta 10</item>
+        <item>Desligar relay porta 10</item>
+        <item>Mais brilho</item>
+        <item>Menos brilho</item>
+        <item>Piscar todas LEDS</item>
+        <item>Tocar Musica</item>
+    </string-array>
+</resources>
